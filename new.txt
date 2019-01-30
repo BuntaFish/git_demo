@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 New File is here
+=======
+New File hurray
+
+And so on
+>>>>>>> 04f997489c1ab6d356d7856f4df73dd4b320a3d3
